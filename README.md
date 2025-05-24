@@ -10,10 +10,10 @@ This repository is designed as a hands-on, practical journey to master Python’
 
 | Category         | Description                                                                                                    |
 |------------------|----------------------------------------------------------------------------------------------------------------|
-| 🎯 **Goal**      | Learn Python for data analysis, visualization, and machine learning from scratch to advanced applications.      |
-| 👤 **Audience**  | Beginners and developers interested in data science, analytics, and machine learning with Python.               |
-| 🧩 **Approach**  | Step-by-step tutorials, code notebooks, and mini-projects for each topic and library.                           |
-| 📦 **Structure** | Organized by library and algorithm, with practical datasets and real-world use cases.                           |
+| **Goal**      | Learn Python for data analysis, visualization, and machine learning from scratch to advanced applications.      |
+| **Audience**  | Beginners and developers interested in data science, analytics, and machine learning with Python.               |
+| **Approach**  | Step-by-step tutorials, code notebooks, and mini-projects for each topic and library.                           |
+| **Structure** | Organized by library and algorithm, with practical datasets and real-world use cases.                           |
 
 ---
 
